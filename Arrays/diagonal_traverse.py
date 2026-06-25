@@ -47,3 +47,4 @@ class Solution(object):
 num = [[1,2,3],[4,5,6],[7,8,9]]
 sol = Solution()
 print("Diagonal traverse is:", sol.findDiagonalOrder(num))
+
